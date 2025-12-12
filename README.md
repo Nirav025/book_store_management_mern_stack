@@ -1,5 +1,5 @@
 # 📚 Book Store Management
-.
+
 This project is a **Book Store Management System** built using the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
 It allows users to **add, view, update, and delete books** with details such as title, author, published date, and price  
 The UI is clean, modern, and responsive, designed with Bootstrap and custom CSS.
