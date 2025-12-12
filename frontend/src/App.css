@@ -1,0 +1,82 @@
+
+/* Soft beige background */
+.library-bg {
+  min-height: 100vh;
+  background: #f4efe6;
+}
+
+/* ---------- FORM ---------- */
+.form-box {
+  background: #ffffff;
+  border-radius: 12px;
+}
+
+.form-title {
+  color: #5a4636;
+  font-weight: 700;
+}
+
+.input-field {
+  background: #f9f7f3;
+  border: 1px solid #d8cfc4;
+}
+
+.input-field:focus {
+  border-color: #8b6f53;
+  box-shadow: 0 0 4px #c2a78d;
+}
+
+.submit-btn {
+  background: #8b6f53;
+  color: white;
+  font-weight: 600;
+}
+
+.submit-btn:hover {
+  background: #6e553e;
+}
+
+/* ---------- BOOK CARD ---------- */
+.book-card {
+  background: #ffffff;
+  padding: 18px;
+  border-radius: 12px;
+  border-left: 8px solid #8b6f53;
+  transition: 0.3s;
+}
+
+.book-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+}
+
+.list-title {
+  color: #5a4636;
+}
+
+/* ---------- ICON BUTTONS ---------- */
+.icon-btn {
+  border: none;
+  padding: 8px 11px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.icon-btn.edit {
+  background: #d9c7aa;
+  color: #5a4636;
+}
+
+.icon-btn.edit:hover {
+  background: #c5b190;
+}
+
+.icon-btn.delete {
+  background: #f8d4d4;
+  color: #b13333;
+}
+
+.icon-btn.delete:hover {
+  background: #e9bcbc;
+}
