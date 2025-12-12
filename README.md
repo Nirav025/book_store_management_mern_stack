@@ -43,7 +43,7 @@ The UI is clean, modern, and responsive, designed with Bootstrap and custom CSS.
 
 ## 📸 Project Preview  
 
-<img src="./book_store_details.png" alt="Book Store Preview" width="700"/>
+<img src="./book_store_details.png" alt="Book Store Preview"/>
 
 ---
 
