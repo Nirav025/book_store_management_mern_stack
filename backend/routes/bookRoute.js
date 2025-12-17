@@ -1,4 +1,4 @@
-const {post, view, trash, update, singleView} = require("../controllers/taskController")
+const {post, view, trash, update, singleView} = require("../controllers/bookController")
 
  
 

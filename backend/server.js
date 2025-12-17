@@ -25,13 +25,11 @@ app.get('/', (req, res) => {
 
 
 
-const taskRoute = require('./routes/taskRoute.js')
+const bookRoute = require('./routes/bookRoute.js')
 
 
 
-app.use('/api/student', taskRoute)
-
-
+app.use('/api/student', bookRoute)
 
 
 
